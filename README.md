@@ -1,3 +1,3 @@
-# hello-world
+# Concept Ideas
 
-"Here is a random string that shows how a commit works and gets merged."
+This repository shall serve as a location for my video plans.
