@@ -1,15 +1,3 @@
-# Concept ideas for videos  
+# Concept Ideas
 
-Functions
-Arrays
-Objects
-Primitives
-Callbacks
-Promises
-Async
-Accessing Data
-Scoping
-White Boarding
-Frameworks
-Build Tools
-Keeping up with the times
+This repository shall serve as a location for my video plans.
