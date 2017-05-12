@@ -1,3 +1,15 @@
-# hello-world
+# Concept ideas for videos  
 
-"Here is a random string that shows how a commit works and gets merged."
+Functions
+Arrays
+Objects
+Primitives
+Callbacks
+Promises
+Async
+Accessing Data
+Scoping
+White Boarding
+Frameworks
+Build Tools
+Keeping up with the times
